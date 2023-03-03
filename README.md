@@ -15,4 +15,6 @@ college internship. something i should probably start thinking about the future 
 > general visual of the local host with the changes made.
 <img width="1016" alt="ye" src="https://user-images.githubusercontent.com/72505790/222715586-fd4f79d6-acd5-454f-8b4e-b523e5129197.PNG">
 
+![jolteon](https://user-images.githubusercontent.com/72505790/222724101-ee203136-7a48-4ced-8656-07cad8ccb07d.gif)
+
 ### second task (tba)
