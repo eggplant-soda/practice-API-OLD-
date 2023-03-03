@@ -1,0 +1,59 @@
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.exe
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.deps.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.runtimeconfig.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\ref\kill-it-with-fire.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.pdb
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.AssemblyInfo.cs
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\scopedcss\bundle\kill-it-with-fire.styles.css
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.CopyComplete
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\ref\kill-it-with-fire.dll
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.pdb
+C:\Users\user\Desktop\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.genruntimeconfig.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\appsettings.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.exe
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.deps.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.runtimeconfig.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\kill-it-with-fire.pdb
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.AssemblyInfo.cs
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets\msbuild.kill-it-with-fire.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets\msbuild.build.kill-it-with-fire.props
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.kill-it-with-fire.props
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.kill-it-with-fire.props
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\scopedcss\bundle\kill-it-with-fire.styles.css
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.csproj.CopyComplete
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\refint\kill-it-with-fire.dll
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.pdb
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\kill-it-with-fire.genruntimeconfig.cache
+C:\Users\Diana\Desktop\my stuff!\sharaga 2022-2023\thoughts_and_bites\thoughts and bites\kill-it-with-fire\kill-it-with-fire\obj\Debug\net6.0\ref\kill-it-with-fire.dll
