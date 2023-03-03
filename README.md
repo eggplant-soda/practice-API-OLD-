@@ -3,6 +3,7 @@ college internship. something i should probably start thinking about the future 
 ## [call me anything you want](vk.com/chezatupoelitso). try to get along with me. 
 ![pizzer](https://user-images.githubusercontent.com/72505790/218069843-c406df0b-b0d9-4cd2-a9d3-b709486d85b3.gif)
 
+# first day:
 ### [first task (updated)](kill-it-with-fire/kill-it-with-fire/Controllers/WeatherForecastController.cs)
 > here the Get, Add(name), Put and Delete methods are checked for functionality. the first subtask has already been added here.
 <img width="847" alt="1" src="https://user-images.githubusercontent.com/72505790/222711320-d317178a-8831-4ec0-8e81-83206a04f9a9.PNG">
