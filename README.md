@@ -1,7 +1,8 @@
 # practice-API
 college internship. something i should probably start thinking about the future from.
 ## [call me anything you want](vk.com/chezatupoelitso). try to get along with me. 
-![pizzer](https://user-images.githubusercontent.com/72505790/218069843-c406df0b-b0d9-4cd2-a9d3-b709486d85b3.gif)
+![pizzer](https://user-images.githubusercontent.com/72505790/218069843-c406df0b-b0d9-4cd2-a9d3-b709486d85b3.gif)![peps](https://user-images.githubusercontent.com/72505790/222754211-451bf7c2-9b69-46bc-bda6-d93c682e2c86.gif)
+
 
 # first day:
 ### [first task (updated)](kill-it-with-fire/kill-it-with-fire/Controllers/WeatherForecastController.cs)
