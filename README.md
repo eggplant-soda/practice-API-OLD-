@@ -18,7 +18,20 @@ college internship. something i should probably start thinking about the future 
 
 ![jolteon](https://user-images.githubusercontent.com/72505790/222724101-ee203136-7a48-4ced-8656-07cad8ccb07d.gif)
 
-### second task (tba)
+### [second task (updated)]
+> creating a public class with weather information:
+
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/5c7f1866-fbc8-4c3a-96a1-ee45abd29502)
+
+> creating a test dataset with prepared weather records to change the controller
+
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/99c46463-07fc-4d77-87ec-873843a2ac04)
+
+> redoing all methods from the last task
+
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/d557b8a5-bf9c-4d1e-a78a-2143ef1823c4)
+
+
 ______________________________
 # designing a database for the API online store:
 > database project:
