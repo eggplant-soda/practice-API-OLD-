@@ -25,3 +25,4 @@ database project:
 database diagram in SQL:
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/4fa83af9-1579-40f1-8bc3-c1284b4b3977)
 raw database file:
+<a href="webshop.sql">
