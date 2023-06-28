@@ -22,11 +22,18 @@ college internship. something i should probably start thinking about the future 
 ______________________________
 # designing a database for the API online store:
 > database project:
+
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/c3732a24-7f19-46dc-bb30-87774ca4a488)
+
 > database diagram in SQL:
+
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/4fa83af9-1579-40f1-8bc3-c1284b4b3977)
+
 > raw database file:
+
 <a href="webshop.sql"> webshop.sql</a> <br></br>
+
 > database integration in an API application:
+
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/7524beb0-2fa4-4f5a-b1a6-4dfb3c162480)
 
