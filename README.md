@@ -5,7 +5,7 @@ college internship. something i should probably start thinking about the future 
 
 
 # first day:
-### [first task (updated)](kill-it-with-fire/kill-it-with-fire/Controllers/WeatherForecastController.cs)
+## [first task (updated)](kill-it-with-fire/kill-it-with-fire/Controllers/WeatherForecastController.cs)
 > here the Get, Add(name), Put and Delete methods are checked for functionality. the first subtask has already been added here.
 <img width="847" alt="1" src="https://user-images.githubusercontent.com/72505790/222711320-d317178a-8831-4ec0-8e81-83206a04f9a9.PNG">
 <img width="808" alt="2" src="https://user-images.githubusercontent.com/72505790/222711328-3eaff4ee-3199-426a-9f53-fa3ba2ee827e.PNG">
@@ -18,4 +18,9 @@ college internship. something i should probably start thinking about the future 
 
 ![jolteon](https://user-images.githubusercontent.com/72505790/222724101-ee203136-7a48-4ced-8656-07cad8ccb07d.gif)
 
-### second task (tba)
+## second task (tba)
+______________________________
+### database project
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/c3732a24-7f19-46dc-bb30-87774ca4a488)
+### database diagram in SQL
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/4fa83af9-1579-40f1-8bc3-c1284b4b3977)
