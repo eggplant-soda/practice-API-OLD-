@@ -78,5 +78,3 @@ college internship. something i should probably start thinking about the future 
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/07ad2e93-8178-4f51-92b8-99b2341fabc1)
 
 
-
-
