@@ -54,3 +54,29 @@ college internship. something i should probably start thinking about the future 
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/7524beb0-2fa4-4f5a-b1a6-4dfb3c162480)
 
 ![giphy - 2021-06-01T143301 969](https://github.com/eggplant-soda/practice-API/assets/72505790/80110438-6549-4b53-8842-8372852787bb)
+
+# practice 5:
+### [working w/ methods)](pract5/Практ 5/UserController.cs)
+<a href="webshop.sql"> raw database file </a> <br></br>
+> we now are working with changed methods.
+
+# creating a Domain layer that'll store abstractions (6):
+
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/73433c59-d694-43f4-a5f3-3d75930d8ff2)
+> then the namespace is changed for all database models and for all interfaces in the Domain project. all dependencies are now changed.
+> some methods for RepositoryBase, UserService, RepositoryWrapper classes are changed:
+
+> 1
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/d3457853-1c8b-4091-b0b5-2ab1e5f890d9)
+> 2
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/b19c68c2-d931-4f9b-b079-bac4ba5f21e0)
+> 3
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/8c264000-d26b-4b0b-90db-722699b886c0)
+
+> database screenshot:
+
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/07ad2e93-8178-4f51-92b8-99b2341fabc1)
+
+
+
+
