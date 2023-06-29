@@ -33,6 +33,8 @@ college internship. something i should probably start thinking about the future 
 
 ![giphy - 2021-06-01T143522 401](https://github.com/eggplant-soda/practice-API/assets/72505790/3f97f037-b9b1-4cc9-b55a-b5b50f4f123f)
 
+# operating the repository and the subject area of the online store:
+![image](https://github.com/eggplant-soda/practice-API/assets/72505790/bb5c33e3-c160-4fae-8d51-2c58c8cfe38d)
 
 # designing a database for the API online store:
 > database project:
@@ -52,4 +54,3 @@ college internship. something i should probably start thinking about the future 
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/7524beb0-2fa4-4f5a-b1a6-4dfb3c162480)
 
 ![giphy - 2021-06-01T143301 969](https://github.com/eggplant-soda/practice-API/assets/72505790/80110438-6549-4b53-8842-8372852787bb)
-
