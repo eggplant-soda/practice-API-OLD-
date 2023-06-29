@@ -18,7 +18,7 @@ college internship. something i should probably start thinking about the future 
 
 ![jolteon](https://user-images.githubusercontent.com/72505790/222724101-ee203136-7a48-4ced-8656-07cad8ccb07d.gif)
 
-### [second task (updated)]
+### [second task (updated)](pract2/WebApplication1/WeatherForecast.cs)
 > creating a public class with weather information:
 
 ![image](https://github.com/eggplant-soda/practice-API/assets/72505790/5c7f1866-fbc8-4c3a-96a1-ee45abd29502)
